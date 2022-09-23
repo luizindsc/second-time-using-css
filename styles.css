@@ -1,0 +1,14 @@
+p {
+    text-align: justify;
+}
+* {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(43, 40, 40);
+}
+h1 {
+    text-align: center;
+}
+h4 {
+    background-color: rgb(218, 120, 75);
+}
